@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+/* html { background-color: rgb(44, 32, 32); }; */
+html { background-image: url("./assets/images/portal-wallpaper-1920x1080-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;}; 

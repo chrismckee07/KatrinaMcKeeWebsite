@@ -3,3 +3,6 @@
     font-style: italic;
     color: #fff;
 }
+:host {
+    background: blue;
+}

@@ -10,8 +10,8 @@ export class HomeComponent implements OnInit {
   public homeText: string;
 
   constructor() {
-    this.homeText = "WELCOME TO ACCOUNT-OWNER APPLICATION";
-   }
+    this.homeText = ""
+  }
 
   ngOnInit(): void {
   }
