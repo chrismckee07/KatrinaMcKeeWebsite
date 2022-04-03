@@ -1,8 +1,10 @@
 .homeText{
-    font-size: 35px;
-    color: black;
+    font-size: 48px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: impact;
+    color: purple;
     text-align: center;
     position: relative;
-    top:30px;
-    text-shadow: 2px 2px 2px gray;
+    /* top:30px; */
+    text-shadow: 2px 2px 2px black;
 }

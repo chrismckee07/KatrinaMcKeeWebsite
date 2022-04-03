@@ -2,4 +2,6 @@
 /* html { background-color: rgb(44, 32, 32); }; */
 html { background-image: url("./assets/images/portal-wallpaper-1920x1080-wallpaper.jpg");
     background-repeat: no-repeat;
-    background-size: cover;}; 
+    background-size: cover;
+    min-height: 100vh;
+    margin: 0;}; 
