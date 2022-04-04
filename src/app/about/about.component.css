@@ -12,7 +12,9 @@
     height: 100vh;
     justify-content: center;
     align-items: top;
-    text-align: center;
+    text-align: left;
     margin-top: 100px;
     min-height: 100vh;
-  }
+    margin-left: 16%;
+    margin-right: 16%;
+}
