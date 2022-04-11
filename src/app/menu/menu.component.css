@@ -1,4 +1,12 @@
 .navbar {
+    display: inline-block;
     text-align: center;
     width: 100%;
+}
+.nav-link {
+    color: white !important;
+}
+.nav-link active {
+    font-weight: bold !important;
+    background-color: red !important;
 }

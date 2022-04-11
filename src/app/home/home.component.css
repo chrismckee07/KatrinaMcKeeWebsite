@@ -1,9 +1,15 @@
 .homeText{
     font-size: 48px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: purple;
+    font-family: Haettenschweiler, sans-serif;
+    color: rgb(219, 213, 125);
     text-align: center;
     position: relative;
-    top:30px;
-    text-shadow: 2px 2px 2px grey;
+    /* top:30px; */
+    text-shadow: 2px 2px 2px rgb(27, 26, 26);
+    text-align: center; 
+    display: inline-block;
+    width: 100%;
+    padding-left: 25%;
+    padding-right: 25%;
 }
+

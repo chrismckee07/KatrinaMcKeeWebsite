@@ -6,7 +6,13 @@
     min-height: 100vh; 
     margin: 0;
 };  */
-html { 
+html,body{ 
+    
     background-image: url("./assets/images/portal-wallpaper-1920x1080-wallpaper.jpg");
     background-size: cover;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
 }
