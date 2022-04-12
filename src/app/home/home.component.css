@@ -9,7 +9,17 @@
     text-align: center; 
     display: inline-block;
     width: 100%;
-    padding-left: 25%;
-    padding-right: 25%;
+    /* padding-left: 23%;
+    padding-right: 23%; */
 }
-
+.center-screen-home{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: top;
+    text-align: left;
+    margin-top: 150px; 
+    min-height: 100vh;
+    margin-left: 16%;
+    margin-right: 16%;
+}

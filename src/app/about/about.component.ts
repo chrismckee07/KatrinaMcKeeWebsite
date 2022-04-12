@@ -18,12 +18,14 @@ export class AboutComponent implements OnInit {
     Nec feugiat in fermentum posuere urna nec tincidunt praesent semper. Quis hendrerit dolor magna eget est lorem ipsum. Egestas quis ipsum suspendisse ultrices gravida dictum fusce. Quis commodo odio aenean sed adipiscing diam. 
     Ut sem viverra aliquet eget. Quis blandit turpis cursus in hac. Id volutpat lacus laoreet non curabitur gravida. Facilisis magna etiam tempor orci eu lobortis. Auctor augue mauris augue neque gravida in. 
     Porta lorem mollis aliquam ut porttitor leo.
+
     Pellentesque habitant morbi tristique senectus et netus et malesuada fames. Fermentum posuere urna nec tincidunt. Etiam erat velit scelerisque in. Quis enim lobortis scelerisque fermentum dui faucibus in ornare. 
     Nibh sit amet commodo nulla facilisi. Nulla malesuada pellentesque elit eget. Quam adipiscing vitae proin sagittis nisl rhoncus mattis. Egestas maecenas pharetra convallis posuere. Maecenas accumsan lacus vel facilisis volutpat est. 
     Lectus proin nibh nisl condimentum. At elementum eu facilisis sed odio morbi quis commodo.
     Erat nam at lectus urna duis convallis convallis tellus id. Pharetra convallis posuere morbi leo. Dolor magna eget est lorem ipsum dolor sit amet consectetur. Dolor morbi non arcu risus quis varius quam. 
     Diam maecenas ultricies mi eget mauris pharetra et ultrices. Maecenas ultricies mi eget mauris pharetra. Leo vel fringilla est ullamcorper eget nulla facilisi etiam. Quis eleifend quam adipiscing vitae proin sagittis nisl. 
     Sed blandit libero volutpat sed. Neque vitae tempus quam pellentesque nec nam aliquam sem et.
+
     Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Etiam non quam lacus suspendisse faucibus interdum. Ut ornare lectus sit amet est placerat in egestas. Sed turpis tincidunt id aliquet risus feugiat in ante metus. 
     Nibh sed pulvinar proin gravida. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus. Curabitur vitae nunc sed velit dignissim sodales ut eu sem. Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. 
     Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. Etiam sit amet nisl purus in mollis nunc sed. Diam volutpat commodo sed egestas. Enim ut sem viverra aliquet. Neque volutpat ac tincidunt vitae semper quis. 
