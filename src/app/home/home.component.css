@@ -1,16 +1,12 @@
 .homeText{
-    font-size: 48px;
-    font-family: Haettenschweiler, sans-serif;
-    color: rgb(219, 213, 125);
+    font-size: 50px;
+    font-weight: bold;
+    color: yellow;
     text-align: center;
-    position: relative;
-    /* top:30px; */
-    text-shadow: 2px 2px 2px rgb(27, 26, 26);
+    position: relative; 
+    text-shadow: 2px 2px 2px black;
     text-align: center; 
     display: inline-block;
-    width: 100%;
-    /* padding-left: 23%;
-    padding-right: 23%; */
 }
 .center-screen-home{
     display: flex;
@@ -18,7 +14,7 @@
     justify-content: center;
     align-items: top;
     text-align: left;
-    margin-top: 150px; 
+    margin-top: 50px; 
     min-height: 100vh;
     margin-left: 16%;
     margin-right: 16%;

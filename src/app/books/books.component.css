@@ -1,12 +1,16 @@
 .booksText{
-    font-size: px;
-    color: black;
-    text-align: right;
+    font-size:xx-large;
+    color: rgb(219, 213, 125);
+    text-align: center;
     position: relative;
     top:30px;
-    text-shadow: 0px 0px 0px gray;
+    background: rgb(59, 6, 80);
+}
+.tableData {
+    vertical-align: top;
+    padding:20px;
 }
 .booksImage{
-    background-color: white;
-    overflow: auto;
+    height: 250px;
+    width: 200;
 }
